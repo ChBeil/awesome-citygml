@@ -297,7 +297,7 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.d
 
 [:house:][:car:] [:evergreen_tree:] [:mount_fuji:] [:vertical_traffic_light:] [:bricks:] [:one:] [:two:] [:three:] 
 
-[[Download](https://www.geospatial.jp/ckan/dataset/plateau-07203-koriyama-city-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
+[[Download]([https://www.geospatial.jp/ckan/dataset/plateau-07203-koriyama-city-2020](https://www-geospatial-jp.translate.goog/ckan/dataset/plateau-22203-numazu-shi-2021/resource/758fe63a-b20f-4d5d-817d-c35eac530143?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp))] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
 
 - **Utsunomiya** 3D building models in LoD 1 and 2 (more LoD1 buildings than 2), roads and planning areas
 
