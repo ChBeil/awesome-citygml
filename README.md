@@ -293,6 +293,12 @@ https://geoportal5.geoportal-th.de/wega-3d/)] [[More](https://www.geoportal-th.d
 
 [[Download](https://www.geospatial.jp/ckan/dataset/plateau-07203-koriyama-city-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
 
+- **Numazu** 3D building models in LoD 1 and 2. LOD 3 data of Buildings, Roads, CityFurniture, Markings, Vegetation and other objects available for a small area 
+
+[:house:][:car:] [:evergreen_tree:] [:mount_fuji:] [:vertical_traffic_light:] [:bricks:] [:one:] [:two:] [:three:] 
+
+[[Download](https://www.geospatial.jp/ckan/dataset/plateau-07203-koriyama-city-2020)] [[Metadata](https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/attributedata.xlsx)][[More](https://www.geospatial.jp/ckan/dataset/plateau)]
+
 - **Utsunomiya** 3D building models in LoD 1 and 2 (more LoD1 buildings than 2), roads and planning areas
 
 [:house:][:car:][:one:][:two:][:mount_fuji:][:bricks:]
